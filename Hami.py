@@ -38,8 +38,8 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Mantal Studio
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS Hami  
+ ▄︻̷̿┻̿═━一
+   THE ANONYMOUS lovehacker TRICKER 
        Mantal
      GAME CHANGER
     Pakistani Hacker
